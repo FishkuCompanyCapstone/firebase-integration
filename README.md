@@ -1,9 +1,6 @@
 ## Config Firebase to App
-#### 1. Register app
-    
-![Cuplikan layar 2023-05-21 193815](https://github.com/WeLoveFishKu/firebase/assets/44109243/64238b3e-6878-4b39-b416-67a573c30e76)
-
-
+#### 1. Download google-service.json file
+Download google-service.json file in https://console.firebase.google.com/project/fishku-mobile/settings/general/android:id.fishku.consumer
 #### 2. Move google-services.json file into your module (app-level) root directory.
 
 ![android_studio_project_panel@2x](https://github.com/WeLoveFishKu/firebase/assets/44109243/18beecfe-9b3e-4270-b915-88ce6455c842)
